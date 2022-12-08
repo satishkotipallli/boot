@@ -486,7 +486,7 @@
     }
     .div2{
         height:400px;
-          background-image: url('../IMAGES/image2.jpg');
+          background-image: url('../images/image2.jpg');
         background-repeat: no repeat;
         background-size: cover;
 /*       border:2px solid black;*/
